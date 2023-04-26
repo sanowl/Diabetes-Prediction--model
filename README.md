@@ -1,4 +1,3 @@
-# Diabetes-Prediction-using-Machine-Learning-with-Python-
-this is Diabetes Prediction  
-using support vector machine (SVM) 
-and heres the link for the dataset {https://www.kaggle.com/datasets/mathchi/diabetes-data-set}
+Diabetes Prediction using Machine Learning with Python
+
+This project uses support vector machine (SVM) to predict whether a person has diabetes or not based on certain diagnostic measurements included in the diabetes dataset. The dataset used in this project can be found on Kaggle at the following link: https://www.kaggle.com/datasets/mathchi/diabetes-data-set.
